@@ -5,7 +5,9 @@ enum RepeatInterval {
 
   /// Hourly interval.
   hourly,
-
+EveryFiveMinutes,
+  EveryThirtyMinutes,
+  EveryTwoHours,
   /// Daily interval.
   daily,
 
